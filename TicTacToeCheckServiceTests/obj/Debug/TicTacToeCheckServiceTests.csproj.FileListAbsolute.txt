@@ -1,0 +1,9 @@
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\bin\Debug\TicTacToeCheckServiceTests.dll
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\bin\Debug\TicTacToeCheckServiceTests.pdb
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\bin\Debug\TicTacToeCheckService.dll
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\bin\Debug\TicTacToeCheckService.pdb
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\obj\Debug\TicTacToeCheckServiceTests.csprojResolveAssemblyReference.cache
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\obj\Debug\TicTacToeCheckServiceTests.dll
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckServiceTests\obj\Debug\TicTacToeCheckServiceTests.pdb

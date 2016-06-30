@@ -1,0 +1,5 @@
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckService\bin\Debug\TicTacToeCheckService.dll
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckService\bin\Debug\TicTacToeCheckService.pdb
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckService\obj\Debug\TicTacToeCheckService.csprojResolveAssemblyReference.cache
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckService\obj\Debug\TicTacToeCheckService.dll
+C:\Users\SHON\Documents\Visual Studio 15\Projects\TicTacToe\TicTacToeCheckService\obj\Debug\TicTacToeCheckService.pdb
