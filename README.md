@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple tic tac toe game with a twist.
+MVVM based Tic-Tac-Toe game
